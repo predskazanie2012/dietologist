@@ -1,0 +1,13 @@
+aiogram==3.31.0
+aiosqlite==0.22.1
+alembic>=1.13,<2.0
+apscheduler==3.11.3
+asyncpg>=0.29,<1.0
+fastapi==0.141.1
+openai==3.13.0
+pydantic==2.13.5
+pydantic-settings==2.15.0
+python-dotenv==1.2.3
+python-multipart==0.0.32
+SQLAlchemy==2.0.52
+uvicorn[standard]==0.52.4
